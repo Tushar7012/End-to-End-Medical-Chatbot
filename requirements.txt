@@ -1,0 +1,10 @@
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-community
+langchain-groq
+
+-e .
