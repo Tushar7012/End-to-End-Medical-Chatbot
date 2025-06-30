@@ -3,6 +3,7 @@ langchain
 flask
 pypdf
 python-dotenv
+gunicorn==20.1.0
 langchain-pinecone
 langchain-community
 langchain-groq
